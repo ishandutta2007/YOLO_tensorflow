@@ -81,3 +81,10 @@ According to the LICENSE file of the original code,
 2016/08/26 : Uploaded weight file converter! (darknet weight -> tensorflow ckpt)
 
 2017/02/21 : Added YOLO_face (Thanks https://github.com/quanhua92/darknet)
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
